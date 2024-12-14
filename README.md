@@ -3,6 +3,7 @@ pandas
 numpy as np
 time
 tensorflow==2.18.0
+protobuf<4
 transformers 
 sklearn.preprocessing 
 yfinance 
