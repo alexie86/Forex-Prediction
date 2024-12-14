@@ -2,11 +2,9 @@ streamlit
 pandas 
 numpy as np
 time
-tensorflow.keras.models 
+tensorflow==2.10.1 
 transformers 
 sklearn.preprocessing 
-tensorflow.keras.models 
-tensorflow.keras.layers 
 yfinance 
 newsapi 
 datetime 
