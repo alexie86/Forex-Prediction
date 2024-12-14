@@ -2,7 +2,7 @@ streamlit
 pandas 
 numpy as np
 time
-tensorflow
+tensorflow==2.18.0
 transformers 
 sklearn.preprocessing 
 yfinance 
