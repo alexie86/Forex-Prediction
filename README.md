@@ -82,11 +82,11 @@ stua==0.3
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
-tensorflow-cpu==2.18.0
-tensorflow_intel==2.18.0
+tensorflow>=2.0
+tensorflow-cpu>=2.0
+tensorflow_intel>=2.0
 termcolor==2.5.0
-tf_keras==2.18.0
+tf_keras>=2.0
 threadpoolctl==3.5.0
 tokenizers==0.20.3
 toml==0.10.2
@@ -103,5 +103,6 @@ wheel==0.45.1
 wrapt==1.17.0
 yfinance==0.2.50
 zope.interface==7.2
+
 
 
