@@ -44,7 +44,6 @@ ml-dtypes==0.4.1
 multitasking==0.0.11
 namex==0.0.8
 narwhals==1.14.3
-newsapi==0.1.1
 newsapi-python==0.2.7
 nltk==3.9.1
 numpy==2.0.2
@@ -104,4 +103,5 @@ wheel==0.45.1
 wrapt==1.17.0
 yfinance==0.2.50
 zope.interface==7.2
+
 
